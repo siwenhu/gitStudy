@@ -1,0 +1,5 @@
+*.swp
+./kernel/
+*.swo
+*.bak
+./libjpeg-turbo-1.4.90/.deps
